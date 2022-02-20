@@ -20,3 +20,5 @@
 [![youtube](https://img.shields.io/badge/lnwtumweb-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCzIz2MYQ-8XKmY3hIfTpHbQ)
 [![twitter](https://img.shields.io/badge/user__suwijak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/user_suwijak)
 
+# 🧾 Certificate
+![alt text](https://suwizx.com/wp-content/uploads/2022/02/cert-1014-24949670.jpg)
